@@ -10,7 +10,7 @@
 
 ```bash
 git clone {URL_репозитория}
-cd react-typescript-vite
+cd todo-react-test-assignment
 ```
 
 2. Установите зависимости:
